@@ -1,0 +1,31 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  max-height: 100%;
+}
+
+.createPost {
+  width: 75%;
+  margin: 50px 10%;
+}
+
+.welcome {
+  margin-top: 100px;
+}
+
+.reactions {
+  background-color: rgb(201, 201, 201);
+  color: black;
+  height: 40px;
+  margin-left: 14px;
+}
+
+.spinner {
+  margin: 10% 0;
+}
